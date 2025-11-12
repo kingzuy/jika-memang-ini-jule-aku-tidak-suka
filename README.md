@@ -163,6 +163,12 @@ Jika mengalami masalah:
 3. Gunakan perintah `/help` untuk panduan
 4. Restart bot dengan `/start`
 
+## Documentasi
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/07cc8eef-f8d3-42b2-b7a1-f4c6b58416e1" />
+<img height="700" alt="image" src="https://github.com/user-attachments/assets/6e7a294b-1d55-4907-bdc4-d0e7b6429583" />
+
+
+
 ---
 
 **🎓 PDDIKTI Search Bot** - Membantu pencarian data pendidikan tinggi Indonesia dengan mudah dan cepat!
