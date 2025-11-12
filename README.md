@@ -37,7 +37,7 @@ Bot Telegram untuk mencari data PDDIKTI (Pangkalan Data Pendidikan Tinggi) yang 
 
 ### 3. Kirim Keyword
 Minimal 3 karakter, contoh:
-- `23.83.1040` (NIM)
+- `23.83.1000` (NIM)
 - `Ahmad` (Nama)
 - `Universitas Indonesia` (PT)
 
@@ -108,7 +108,8 @@ Gunakan tombol:
 ## 📦 Instalasi Dependencies
 
 ```bash
-pip install python-telegram-bot playwright pandas xlsxwriter
+pip3 install playwright pandas xlsxwriter
+pip3 install "python-telegram-bot[job-queue]"
 playwright install chromium
 ```
 
